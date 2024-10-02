@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LogIn</string>
+    <string name="login">Login</string>
+    <string name="enter_email">Email</string>
+    <string name="enter_password">Password</string>
+    <string name="welcome_to_the_new_page">Welcome to the new page!</string>
+    <string name="registration">Registration</string>
+</resources>
